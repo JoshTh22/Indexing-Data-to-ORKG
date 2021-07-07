@@ -15,15 +15,11 @@
 ## Required python libraries
 ```
 #PyPI
-pip install beautifulsoup4
-pip install urllib3
 pip install pandas
-pip install sys
 pip install spacy
 pip install scispacy
 pip install en_core_sci_lg
 pip install numpy 
-pip install AST
 pip install collections-extended
 pip install bio
 ```
